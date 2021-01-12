@@ -1,0 +1,5 @@
+services:
+  axl_test.route_subscriber:
+    class: Drupal\axl_test\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }

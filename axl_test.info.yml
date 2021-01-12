@@ -1,0 +1,5 @@
+name: Axl Test Mosule
+type: module
+description: 'Contain create new field in site information form and rest resource.'
+package: Axl Test
+core_version_requirement: ^8 || ^9
